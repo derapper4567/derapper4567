@@ -3,9 +3,9 @@
 
 • 🧑‍🎓 Bsc Data Science , DataCamp Data Science& Machine Learning, Udemy Cloud Development .
 
-• 🔭 I’m currently working on LMS based on YII2
+• 🔭 I’m currently working on ERPNext Project with Frappe.
 
-• 🌱 I’m currently learning shiny web Apps(Business Analysis) and cloud application with node.js
+• 🌱 I’m currently learning automating Business Analysis tools and Reinforcement Machine Learning.
 
 • 👯 I’m looking to collaborate on Open Source Projects
 
