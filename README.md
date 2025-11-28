@@ -1,11 +1,11 @@
 • Hi there 👋 I'm Asha Melius Kisonga 💻
 • ✨ Data Scientist
 
-• 🧑‍🎓 Bsc Data Science , DataCamp Data Science& Machine Learning, Udemy Cloud Development .
+• 🧑‍🎓 Bsc Data Science , DataCamp Data Science& Machine Learning, Udemy AI Engineer agentic solutions .
 
 • 🔭 I’m currently working on ERPNext Project with Frappe.
 
-• 🌱 I’m currently learning automating Business Analysis tools and Reinforcement Machine Learning.
+• 🌱 I’m currently learning automating Business Analysis tools and DevOps Pipeline.
 
 • 👯 I’m looking to collaborate on Open Source Projects
 
