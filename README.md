@@ -1,5 +1,5 @@
 • Hi there 👋 I'm Asha Melius Kisonga 💻
-• ✨ Data Scientist
+• ✨  Gen Data Scientist
 
 • 🧑‍🎓 Bsc Data Science , DataCamp Data Science& Machine Learning, Udemy AI Engineer agentic solutions .
 
